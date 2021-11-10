@@ -1,0 +1,51 @@
+RR
+0_M0,arrival time ,1607677202.049563,from worker_id,1
+0_M0,end time,1607677204.0514743,from worker_id,1
+0_R0,arrival time ,1607677204.0662813,from worker_id,2
+0_R0,end time,1607677206.068589,from worker_id,2
+1_M0,arrival time ,1607677207.057503,from worker_id,3
+1_M0,end time,1607677209.059566,from worker_id,3
+1_R0,arrival time ,1607677209.0754476,from worker_id,1
+1_R0,end time,1607677211.0776932,from worker_id,1
+2_M0,arrival time ,1607677212.0622897,from worker_id,2
+2_M0,end time,1607677214.0653648,from worker_id,2
+2_R0,arrival time ,1607677214.0814223,from worker_id,3
+2_R0,end time,1607677216.0837512,from worker_id,3
+3_M0,arrival time ,1607677217.082522,from worker_id,1
+3_M0,end time,1607677219.0853515,from worker_id,1
+3_R0,arrival time ,1607677219.1052346,from worker_id,2
+3_R0,end time,1607677221.1075032,from worker_id,2
+LL
+0_M0,arrival time ,1607677326.0334942,from worker_id,2
+0_M0,end time,1607677328.0360847,from worker_id,2
+0_R0,arrival time ,1607677328.054989,from worker_id,2
+0_R0,end time,1607677330.0572252,from worker_id,2
+1_M0,arrival time ,1607677331.0385559,from worker_id,2
+1_M0,end time,1607677333.0411603,from worker_id,2
+1_R0,arrival time ,1607677333.0655143,from worker_id,2
+1_R0,end time,1607677335.067879,from worker_id,2
+2_M0,arrival time ,1607677336.0455189,from worker_id,2
+2_M0,end time,1607677338.047498,from worker_id,2
+2_R0,arrival time ,1607677338.0717216,from worker_id,2
+2_R0,end time,1607677340.0752003,from worker_id,2
+3_M0,arrival time ,1607677341.0608559,from worker_id,2
+3_M0,end time,1607677343.0704143,from worker_id,2
+3_R0,arrival time ,1607677343.0928216,from worker_id,2
+3_R0,end time,1607677345.0950859,from worker_id,2
+RANDOM
+0_M0,arrival time ,1607677414.6729531,from worker_id,3
+0_M0,end time,1607677416.6757348,from worker_id,3
+0_R0,arrival time ,1607677416.6991782,from worker_id,2
+0_R0,end time,1607677418.7015312,from worker_id,2
+1_M0,arrival time ,1607677419.679349,from worker_id,1
+1_M0,end time,1607677421.6811604,from worker_id,1
+1_R0,arrival time ,1607677421.7010653,from worker_id,2
+1_R0,end time,1607677423.704059,from worker_id,2
+2_M0,arrival time ,1607677424.6775103,from worker_id,3
+2_M0,end time,1607677426.6825757,from worker_id,3
+2_R0,arrival time ,1607677426.7022514,from worker_id,1
+2_R0,end time,1607677428.704221,from worker_id,1
+3_M0,arrival time ,1607677429.697509,from worker_id,2
+3_M0,end time,1607677431.699834,from worker_id,2
+3_R0,arrival time ,1607677431.717351,from worker_id,2
+3_R0,end time,1607677433.717855,from worker_id,2

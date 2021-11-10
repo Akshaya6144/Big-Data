@@ -1,0 +1,4 @@
+1607677326.0294995,arrival time of job ,0,0
+1607677331.0322459,arrival time of job ,1,0
+1607677336.0406194,arrival time of job ,2,0
+1607677341.0592413,arrival time of job ,3,0
